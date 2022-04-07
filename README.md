@@ -17,7 +17,7 @@ This webapp has been tested with Node v10.15.3. Use `npm install` to install all
 
 
 
-
+##Task
 
 Create Your Own Exchange
 
@@ -41,10 +41,12 @@ In the task, you will build your own DeFi application, which is an exchange that
 
 **clone** it to get started.
 
-Check Off - Email us a screenshot of your exchange web app after successfully swapping DAI and USDC. It should look something like this.
+Check Off - Email us a screenshot of your exchange web app after successfully swapping DAI and USDC. 
 
 
 
-In addition, please send us a screenshot of your MetaMask. It should look like something like this. 
+In addition, please send us a screenshot of your MetaMask. 
 
+
+Reference Image attached...
 
