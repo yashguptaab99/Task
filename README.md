@@ -1,10 +1,8 @@
-## HW7 Create Your Own Exchange
-
-Written by [Daniel Pyrathon](https://github.com/PirosB3), the [0x](https://0x.org/) team, and Simon Zirui Guo.
+## Create Your Own Exchange
 
 ### Prerequisites
 
-Before the lecture, please do the following:
+Please do the following:
 
 * Install [Metamask](https://metamask.io/) (on Chrome) and create a new account (optionally, re-use an existing account)
 * Install [VSCode](https://code.visualstudio.com/) (Will make programming in TypeScript much easier)
@@ -17,14 +15,11 @@ Before the lecture, please do the following:
 
 
 
-### Homework Detail
+### Task Detail
 
-In this homework, you will build your own DeFi application, which is an exchange that uses [0x API](https://0x.org/api) to easily swap between [DAI](https://makerdao.com/en/) and [USDC](https://www.centre.io/usdc).
+In this Task, you will build your own DeFi application, which is an exchange that uses [0x API](https://0x.org/api) to easily swap between [DAI](https://makerdao.com/en/) and [USDC](https://www.centre.io/usdc).
 
-**Proceed** to [this repo](https://github.com/PirosB3/Blockchain-Lecture-UC-Berkeley) and **clone** it to get started. Shout out to [Daniel Pyrathon](https://github.com/PirosB3) and the 0x team for creating this coding assignment.
-
-Before you proceed, we highly recommend you watch the lecture recording of the technical walkthrough.
-
+**Proceed** to [this repo](https://github.com/PirosB3/Blockchain-Lecture-UC-Berkeley) and **clone** it to get started.
 
 
 ### Check Off
