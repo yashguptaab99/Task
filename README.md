@@ -19,7 +19,7 @@ Please do the following:
 
 In this Task, you will build your own DeFi application, which is an exchange that uses [0x API](https://0x.org/api) to easily swap between [DAI](https://makerdao.com/en/) and [USDC](https://www.centre.io/usdc).
 
-**Proceed** to [this repo](https://github.com/PirosB3/Blockchain-Lecture-UC-Berkeley) and **clone** it to get started.
+ **clone** This repo to get started.
 
 
 ### Check Off
