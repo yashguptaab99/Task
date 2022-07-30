@@ -27,7 +27,7 @@ export const ZERO = new BigNumber(0);
 export const DEFAULT_GAS_PRICE = new BigNumber(5000000000);
 export const KOVAN_0x_API = 'https://kovan.api.0x.org';
 export const INFURA_RPC_URL =
-  'https://kovan.infura.io/v3/f98b693fe61e41ada1a82dab93a3a888';
+  'https://kovan.infura.io/v3/3b521a5f7d5d47dcb6f40a45635b235c';
 export const MAP_TOKEN_TO_NAME: { [key: string]: string } = {
   [FAKE_DAI]: 'DAI',
   [FAKE_USDC]: 'DAI',
