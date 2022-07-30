@@ -1,5 +1,32 @@
 ## Create Your Own Exchange
 
+## Goal
+
+You will:
+
+- Hook up a front-end web application to the Ethereum blockchain using 0x libraries.
+- Cover important practical tasks around ERC20 tokens
+  - How to use `ERC20TokenContract` to interact with a deployed contract 
+  - How to convert big integers to base unit numbers using `Web3Wrapper.toBaseUnitAmount()`
+  - How to allow the ERC20 Exchange proxy to trade using your wallet funds
+- Perform a Swap using the 0x API
+  - How to inspect a 0x API swap quote response
+  - How to perform with swap in 1 extra line of code!
+
+## Environment setup
+
+This demo will only work on the Kovan testnet.
+
+This tutorial will be using 2 dummy ERC20 token contracts that I deployed on the Kovan testnet. These are not the real DAI and USDC, but they are drop-in replacements. Each contract also exposes a `mint(uint256)` function that can be used to create tokens for the user.
+
+- DAI (18 decimals) is hosted at: `0x48178164eB4769BB919414Adc980b659a634703E`
+- USDC (6 decimals) is hosted at: `0x5a719Cf3E02c17c876F6d294aDb5CB7C6eB47e2F`
+
+## Environment setup
+
+This webapp has been tested with Node v10.15.3. Use `npm install` to install all the various dependencies and, after installation finishes successfully, run `npm run serve` to run a live webserver on `http://localhost:9000`. Any change to the TypeScript code will trigger the webpage to refresh with newly compiled code.
+
+
 ### Prerequisites
 
 Please do the following:
